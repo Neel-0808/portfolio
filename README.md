@@ -32,13 +32,13 @@ This repository contains the source code for my personal portfolio website. The 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Elanthirayann/Portfolio.git
+git clone https://github.com/Neel-0808/portfolio.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Portfolio
+cd portfolio
 ```
 
 3. Open the index.html file in your web browser.
